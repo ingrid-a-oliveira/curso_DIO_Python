@@ -46,3 +46,6 @@ for indice, carro in enumerate(carros):
 print(carros.count("opala"))
 print(carros.index("opala"))
 print(len(carros))"""
+
+carros = ("gol") 
+print(isinstance(carros, tuple))
