@@ -17,6 +17,10 @@ Curso DIO Python
 │  ├── Módulo 03 - Conjuntos em Python
  
      └── exercícios_conjuntos.py
+
+│  ├── Módulo 04 - Dicionários em Python
+ 
+     └── exercícios_conjuntos.py
         
 │
 └── ...
