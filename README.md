@@ -21,6 +21,14 @@ Curso DIO Python
 │  ├── Módulo 04 - Dicionários em Python
  
      └── exercícios_conjuntos.py
+
+│  ├── Módulo 05 - Funções em Python
+ 
+     └── exercícios_conjuntos.py
+
+│  ├── Módulo 06 - Programação Orientada a Objetos
+ 
+     └── exercícios_conjuntos.py 
         
 │
 └── ...
